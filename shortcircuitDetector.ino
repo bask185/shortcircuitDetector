@@ -123,5 +123,3 @@ void loop()
 
     }   END_REPEAT
 }
-https://www.youtube.com/v/99Gkl7HWomI
-https://www.youtube.com/v/3gcMQ_PF8H0
